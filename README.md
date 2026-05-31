@@ -1,2 +1,2 @@
-\# Mlops learning journey
+# Mlops learning journey
 
