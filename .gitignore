@@ -1,0 +1,87 @@
+# =====================================================
+# MLOps Journey - .gitignore (CORRECTED)
+# =====================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+venv/
+.venv/
+ENV/
+env/
+.env
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pytest & Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
+
+# ML Models & Data
+models/*.pkl
+models/*.joblib
+models/*.h5
+data/*.csv
+data/*.json
+data/raw/
+data/processed/
+data/external/
+
+# MLflow
+mlruns/
+mlflow_mlmodels/
+
+# Docker
+.docker/
+
+# Secrets
+*.pem
+*.key
+secrets/
+credentials/
+
+# Logs
+logs/
+output.log
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+temp/
+
+# Evidently Reports
+evidently_reports/
+
+# Build Artifacts
+*.prof
+profile_output.txt
+
+# Git Internal (NEVER commit this)
+.git/
