@@ -1,6 +1,6 @@
 from typing import List , Tuple
 
-def create_sample_data() -> List[List[float]]:
+def get_sample_data() -> List[List[float]]:
     
     return [
         [3.2 , 1.5 , 1.2 , 2.0],
