@@ -19,7 +19,7 @@ def predict(features: List[float]) -> Dict[str , Any]:
         return {"prediction": None, "status": "failed"}
     
     label = "setosa" if features[0] < 5.5 else "versicolor"
-    logger.info(f"prediction:" {label}) 
+    logger.info(f"prediction: {label}") 
 
     return {
         "prediction": label,
