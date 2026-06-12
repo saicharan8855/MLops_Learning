@@ -1,0 +1,4 @@
+*.pkl
+*.log
+temp/
+secrects.txt
