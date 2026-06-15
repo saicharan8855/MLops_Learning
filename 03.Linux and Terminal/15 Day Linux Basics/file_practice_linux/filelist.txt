@@ -1,0 +1,6 @@
+total 12
+drwxr-xr-x 2 sai_charan sai_charan 4096 Jun 15 23:08 .
+drwxr-x--- 9 sai_charan sai_charan 4096 Jun 15 23:06 ..
+-rw-r--r-- 1 sai_charan sai_charan   35 Jun 15 23:05 data.txt
+-rw-r--r-- 1 sai_charan sai_charan    0 Jun 15 23:08 filelist.txt
+appended line
