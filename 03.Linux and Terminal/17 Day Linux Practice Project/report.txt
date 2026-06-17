@@ -1,0 +1,21 @@
+=================
+Log analsis report
+================
+Total log lines: 10
+
+--- Error count ---
+2
+--- WARNING count ---
+1
+--- CRITICAL entries ---
+2026-06-17 10:06:00 CRITICAL system out of memory
+
+--- All ERROR lines ---
+ERROR app.log
+
+--- successful predictions ---
+2026-06-17 10:00:07 INFO prediction complete: setosa
+2026-06-17 10:03:00 INFO prediction complete: versicolor
+2026-06-17 10:05:10 INFO prediction complete: virginica
+
+--- searching foro specific class: setosa ---
