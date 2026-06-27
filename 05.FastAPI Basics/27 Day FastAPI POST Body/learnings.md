@@ -111,7 +111,7 @@ uvicorn main:app --reload
 
 ## Why This Matters in MLOps
 
-Two real production lessons collided today by accident. First — automatic request validation is exactly what protects a deployed model from receiving four strings instead of four floats and crashing somewhere deep inside the prediction logic; FastAPI stops bad data at the door. Second — a `ConnectionRefused` error from a client is one of the most common real-world support tickets in any system with a client and a server running separately: "it's not working" almost always means "is the other side even running right now?" before it means anything more complicated.
+Two real production lessons collided today by accident. First — automatic request validation is exactly what protects a deployed model from receiving four strings instead of four floats and crashing somewhere deep inside the prediction logic; FastAPI stops bad data at the door. Second — a `ConnectionRefused` error from a client is one of the most common real-world support tickets in any system with a client and a server running separately: "it's not working" almost always means "is the other side even running right now?" before it means anything more complicaed.
 
 ---
 
