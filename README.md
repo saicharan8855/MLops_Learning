@@ -118,7 +118,7 @@ Topic 04 — HTTP and APIs
 ## Biggest Lessons
 - External APIs fail in real, unpredictable ways (httpbin taught this all week)
 - Never trust response.json() without checking status first
-- Wrap every API call in try/except with specific exception types
+- Wrap every API call in try/except with specific exception  types
 - Never hardcode secrets — always .env + .gitignore
 
 
