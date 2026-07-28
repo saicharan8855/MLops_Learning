@@ -29,7 +29,7 @@
 # 02. Git and GitHub — Summary
 
 ## What This Section Covers
-4 days of Git and GitHub workflow beyond the basics — going past add, commit, push, pull into branching, undoing mistakes, clean history, and real team collaboration through Pull Requests.
+4 days of Git and GitHub workflow beyond the basics — going past add, commit, push, pull into branching, undoing mistakes, clean history, and real team collaboration through Pull  Requests.
 
 ## Days
 | Day | Topic | Key Concepts |
